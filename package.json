@@ -1,0 +1,25 @@
+{
+  "name": "@panosen/murmur-hash",
+  "version": "0.1.0",
+  "description": "JS murmur hash implementation",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panosen/panosen-murmur-hash"
+  },
+  "keywords": [
+    "murmur",
+    "hash",
+    "murmur2",
+    "murmur3"
+  ],
+  "contributors": [
+    "Gary Court",
+    "Tim Joseph Dumol"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}

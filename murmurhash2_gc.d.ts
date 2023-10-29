@@ -1,0 +1,1 @@
+export function murmurhash2_32_gc(str: string, seed?: number): number;
